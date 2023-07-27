@@ -1,1 +1,3 @@
-hey, how are you
+class demo {
+  hey, how are you
+}
